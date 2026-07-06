@@ -1,4 +1,4 @@
+streamlit
 pandas
 plotly
-docx
 python-docx
